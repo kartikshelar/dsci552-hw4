@@ -1,0 +1,11 @@
+# OS / editor artifacts
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
